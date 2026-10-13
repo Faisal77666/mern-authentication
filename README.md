@@ -1,4 +1,3 @@
-﻿# mern-authentication
 # MERN Authentication
 
 A full-stack authentication system built with the MERN stack. It has a React front end and an Express + MongoDB REST API that handles user accounts with JWT-based sessions stored in cookies.

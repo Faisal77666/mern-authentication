@@ -124,4 +124,4 @@ Vite prints the local URL (usually `http://localhost:5173`).
 
 ## Author
 
-Faisal. [GitHub](https://github.com/Faisal77666) · [Portfolio](https://faisaldev.me)
+Faisal. [GitHub](https://github.com/Faisal77666) ·
